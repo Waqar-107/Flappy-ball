@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1464660885 source:c:\users\utshaw\documents\c programming\projects\headertester\imain.cpp
+	"iGraphics2.h"
+
+1464660296 c:\users\utshaw\documents\c programming\projects\headertester\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465379537 source:j:\headertester\imain.cpp
+	"iGraphics2.h"
+
+1464660296 j:\headertester\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465380344 source:c:\users\utshaw\documents\c programming\projects\workplace\headertester\imain.cpp
+	"iGraphics2.h"
+	<stdio.h>
+	<string.h>
+
+1464660296 c:\users\utshaw\documents\c programming\projects\workplace\headertester\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465380344 source:c:\users\user\documents\c programming\1transfer\workplace\headertester\imain.cpp
+	"iGraphics2.h"
+	<stdio.h>
+	<string.h>
+
+1464660296 c:\users\user\documents\c programming\1transfer\workplace\headertester\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465439399 source:c:\users\user\documents\c programming\1transfer\workplace\headertester - copy\imain.cpp
+	"iGraphics2.h"
+
+1464660296 c:\users\user\documents\c programming\1transfer\workplace\headertester - copy\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465395666 source:c:\users\utshaw\documents\c programming\projects\last time\headertester - copy\imain.cpp
+	"iGraphics2.h"
+
+1464609896 c:\users\utshaw\documents\c programming\projects\last time\headertester - copy\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465452407 source:c:\users\user\documents\c programming\last time\headertester - copy\imain.cpp
+	"iGraphics2.h"
+
+1464613496 c:\users\user\documents\c programming\last time\headertester - copy\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465453555 source:e:\graphical projects\headertester - copy\imain.cpp
+	"iGraphics2.h"
+
+1464613496 e:\graphical projects\headertester - copy\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465456546 source:e:\graphical projects\flappy ball un\imain.cpp
+	"iGraphics2.h"
+
+1464613496 e:\graphical projects\flappy ball un\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+

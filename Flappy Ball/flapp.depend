@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1465480381 source:c:\users\user\documents\c programming\waqar\flappy ball_under construction\imain.cpp
+	"iGraphics2.h"
+
+1464613496 c:\users\user\documents\c programming\waqar\flappy ball_under construction\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465486159 source:c:\users\user\documents\c programming\final_\flappy ball_under construction\imain.cpp
+	"iGraphics2.h"
+
+1464613496 c:\users\user\documents\c programming\final_\flappy ball_under construction\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465529221 source:e:\graphical projects\flappy ball_under construction\imain.cpp
+	"iGraphics2.h"
+
+1464613496 e:\graphical projects\flappy ball_under construction\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465551070 source:e:\graphical projects\flappy ball_finishing_touches\imain.cpp
+	"iGraphics2.h"
+
+1464613496 e:\graphical projects\flappy ball_finishing_touches\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465616139 source:c:\users\user\documents\c programming\final_\flappy ball_finishing_touches\imain.cpp
+	"iGraphics2.h"
+
+1464566696 c:\users\user\documents\c programming\final_\flappy ball_finishing_touches\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465616898 source:c:\users\user\documents\c programming\final_\submitted\flappy ball_finishing_touches\imain.cpp
+	"iGraphics2.h"
+
+1464566696 c:\users\user\documents\c programming\final_\submitted\flappy ball_finishing_touches\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465616898 source:c:\users\user\documents\c programming\final_\submitted\flappy ball\imain.cpp
+	"iGraphics2.h"
+
+1464566696 c:\users\user\documents\c programming\final_\submitted\flappy ball\igraphics2.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
